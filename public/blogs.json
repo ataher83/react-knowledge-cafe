@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/R6BY6SF/a-l-vrqa96bol-Ac-unsplash.jpg",
+      "title": "The Lost World",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/jftjKNB/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 45
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/BHDwrMy/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+      "title": "Secrets of the Stars",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co/ZJ4cbFT/jonas-kakaroto-mj-Rwhvq-EC0-U-unsplash.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 30
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/Ry0bK3v/diego-ph-f-Iq0t-ET6llw-unsplash.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Emily Clark",
+      "author_img": "https://i.ibb.co/bJ4H35w/ransford-quaye-Dz-AFv1i-VMGg-unsplash.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 60
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/vcsJ2v0/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+      "title": "Echoes of Eternity",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/HrmbqfD/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 50
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/cT8kHRZ/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "The Last Voyage",
+      "author": "Sarah White",
+      "author_img": "https://i.ibb.co/Xx3Gm0f/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 55
+    }
+  ]
+  
